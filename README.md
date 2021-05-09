@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @albertoaguzzi74
+- 👋  Hi, I’m Alberto Aguzzi.
 - 👀  I’m interested in (Cardano) Blockchain Development.
 - 🌱  I’m currently learning Haskell for Plutus Smart Contract development.
 - 💞️  I’m looking to collaborate on this with fellow Blockchain Developers.
